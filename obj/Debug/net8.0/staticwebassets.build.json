@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "SfsnZk15lmhGVSX0qRU9CEWg/1aesrOJrHGMWdbVBJw=",
+  "Hash": "lbJO1c6Bqxrzws0XZxya/YbHUWXN8RJ56qo5zX/Kfb4=",
   "Source": "TemplateApi",
   "BasePath": "_content/TemplateApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

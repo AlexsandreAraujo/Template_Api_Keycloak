@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexsandre\\Documents\\Projetos\\Template Api Keycloak\\TemplateApi\\TemplateApi\\TemplateApi.csproj": {}
+    "C:\\Users\\Alexsandre\\Documents\\Projetos\\Template Api Keycloak\\TemplateApi\\TemplateApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexsandre\\Documents\\Projetos\\Template Api Keycloak\\TemplateApi\\TemplateApi\\TemplateApi.csproj": {
+    "C:\\Users\\Alexsandre\\Documents\\Projetos\\Template Api Keycloak\\TemplateApi\\TemplateApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexsandre\\Documents\\Projetos\\Template Api Keycloak\\TemplateApi\\TemplateApi\\TemplateApi.csproj",
+        "projectUniqueName": "C:\\Users\\Alexsandre\\Documents\\Projetos\\Template Api Keycloak\\TemplateApi\\TemplateApi.csproj",
         "projectName": "TemplateApi",
-        "projectPath": "C:\\Users\\Alexsandre\\Documents\\Projetos\\Template Api Keycloak\\TemplateApi\\TemplateApi\\TemplateApi.csproj",
+        "projectPath": "C:\\Users\\Alexsandre\\Documents\\Projetos\\Template Api Keycloak\\TemplateApi\\TemplateApi.csproj",
         "packagesPath": "C:\\Users\\Alexsandre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexsandre\\Documents\\Projetos\\Template Api Keycloak\\TemplateApi\\TemplateApi\\obj\\",
+        "outputPath": "C:\\Users\\Alexsandre\\Documents\\Projetos\\Template Api Keycloak\\TemplateApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
